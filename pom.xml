@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hello</groupId>
-    <artifactId>HelloAppUC5</artifactId>
+    <artifactId>HelloAppUC6</artifactId>
     <version>1.0</version>
 
     <build>
@@ -17,7 +17,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>HelloAppUC5</mainClass>
+                    <mainClass>HelloAppUC6</mainClass>
                 </configuration>
             </plugin>
 
